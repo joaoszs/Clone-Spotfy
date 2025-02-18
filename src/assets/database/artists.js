@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 const artistArray = [
   {
     id: 1,
